@@ -5,8 +5,8 @@ main ()
 {
     system("cls");
     int num;
-    cout << "Enter the cost of the dress : ";
-    cin >> cost;
+    cout << "Enter the number : ";
+    cin >> num;
     if (num > 50)
     {
         cout << "You have passed.";
